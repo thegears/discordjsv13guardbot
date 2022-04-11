@@ -2,9 +2,9 @@
 Siteli Guard Bot V13
 
 # İlk adım
-## npm i
+## Dosya konumundaki terminale npm i yazın.
 # İkinci adım
-## config.json doldurun
+## config.json doldurun.
 # Üçüncü adım
 ## Tarayıcınızda localhost:5555 e girerek panele erişebilirsiniz.
 
