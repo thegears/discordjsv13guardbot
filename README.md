@@ -8,4 +8,6 @@ Siteli Guard Bot V13
 # Üçüncü adım
 ## Tarayıcınızda localhost:5555 e girerek panele erişebilirsiniz.
 
-Star atmayı unutmayın :)
+## Star atmayı unutmayın :)
+
+## [Buraya tıklayarak kodlar paylaştığım sunucuya gidebilirsiniz.](https://discord.gg/Pur3RnGua2)
