@@ -1,5 +1,5 @@
 # discordjsv13guardbot
-Siteli Guard Bot V13
+Siteli Guard Bot V13 <img src = "https://www.codefactor.io/repository/github/thegears/discordjsv13guardbot/badge"/>
 
 <img src="https://cdn.discordapp.com/attachments/874042688280883251/963825419424006284/unknown.png">
 
