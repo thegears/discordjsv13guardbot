@@ -8,7 +8,7 @@ Siteli Guard Bot V13 <img src = "https://www.codefactor.io/repository/github/the
 # İkinci adım
 ## config.json doldurun.
 # Üçüncü adım
-## Tarayıcınızda localhost:5555 e girerek panele erişebilirsiniz.
+## node index.js yazın terminale ve tarayıcınızda localhost:5555 e girerek panele erişebilirsiniz.
 
 ## Star atmayı unutmayın :)
 
